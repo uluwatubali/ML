@@ -3,7 +3,7 @@
 ## Main Course
 1. Cousera: https://www.coursera.org/learn/machine-learning/home/welcome
 2. Udacity: https://eu.udacity.com/course/intro-to-machine-learning--ud120
-3. MIT:
+3. MIT: https://www.youtube.com/watch?v=h0e2HAPTGF4&t=173s
 
 ## Essential Concept:
 
